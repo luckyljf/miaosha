@@ -10,7 +10,7 @@ import java.math.BigDecimal;
 
 /**
  * 用户的帐户信息账户 一个LoginInfo 对应一个UserInfo对应一个Account
- *
+ * 测试
  * @author 邱润泽
  */
 @Getter
